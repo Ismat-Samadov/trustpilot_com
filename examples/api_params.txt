@@ -1,0 +1,202 @@
+pagination api params
+
+headers:
+
+Request URL
+https://www.trustpilot.com/_next/data/categoriespages-consumersite-2.1186.0/categories/craftsman.json?page=2&categoryId=craftsman
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+108.157.229.23:443
+Referrer Policy
+strict-origin-when-cross-origin
+cache-control
+public, max-age=1200
+content-encoding
+gzip
+content-type
+application/json
+date
+Thu, 05 Mar 2026 06:11:46 GMT
+etag
+"xjxfwd195613y7"
+referrer-policy
+strict-origin-when-cross-origin
+strict-transport-security
+max-age=63072000; includeSubDomains; preload
+vary
+Accept-Encoding
+via
+1.1 ff51bc3614c373d274030fe4ca1a34fc.cloudfront.net (CloudFront)
+x-amz-cf-id
+KF6Odf_dXaSlDWJs3RtY2dA7M5yp2B7DXaPIgC_qasqu9fVy9S4AQQ==
+x-amz-cf-pop
+ARN56-P2
+x-cache
+Miss from cloudfront
+x-content-type-options
+nosniff
+x-download-options
+noopen
+x-frame-options
+deny
+x-xss-protection
+0
+:authority
+www.trustpilot.com
+:method
+GET
+:path
+/_next/data/categoriespages-consumersite-2.1186.0/categories/craftsman.json?page=2&categoryId=craftsman
+:scheme
+https
+accept
+/
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-GB,en-US;q=0.9,en;q=0.8,ru;q=0.7,az;q=0.6
+baggage
+sentry-environment=Production,sentry-release=categoriespages-consumersite%402.1186.0,sentry-public_key=29178272ed294e5db5441dee22e3e486,sentry-trace_id=dcb998bfa2c04fc385262d884f6515b7
+cookie
+TP.uuid=1f4d38ba-7663-4ce9-b8f0-015234fa4049; tp-external-referrer=%7B%22referrer%22%3A%22https%3A%2F%2Fwidget.trustpilot.com%2F%22%2C%22entry%22%3A%22https%3A%2F%2Fwww.trustpilot.com%2Freview%2Fwww.godaddy.com%3Futm_medium%3Dtrustbox%26utm_source%3DMini%22%7D; _hjSession_391767=eyJpZCI6IjE3ZmJkZDQ5LTM4M2QtNDUyYi04NTIzLWUwYTkyYWIwZWVlZiIsImMiOjE3NzI2OTA3NzU3ODYsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxfQ==; ajs_anonymous_id=7c39f373-4085-44f7-8434-b11d123c2368; amplitude_idundefinedtrustpilot.com=eyJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOm51bGwsImxhc3RFdmVudFRpbWUiOm51bGwsImV2ZW50SWQiOjAsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjowfQ==; OptanonAlertBoxClosed=2026-03-05T06:06:22.591Z; _hjSessionUser_391767=eyJpZCI6IjU3MWE3NGM2LTU3ZTItNWRlNC1hMzdmLWJjMTA5YTNlNDc2OCIsImNyZWF0ZWQiOjE3NzI2OTA3NzU3ODUsImV4aXN0aW5nIjp0cnVlfQ==; csrf=Ov-9OAyvWns2947gS2GhpoD; _gcl_au=1.1.1019251359.1772690787; _ga=GA1.1.1835428715.1772690787; g_state={"i_l":0,"i_ll":1772690847051,"i_b":"k43X+u8ef98okNTTv7dp/WXkwiMU60qJPI5orTY9iRM","i_e":{"enable_itp_optimization":0}}; OptanonConsent=isGpcEnabled=0&datestamp=Thu+Mar+05+2026+10%3A08%3A29+GMT%2B0400+(Azerbaijan+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=dcc2d0be-8483-41d3-9298-87354ba1b1ec&interactionCount=2&isAnonUser=1&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772690782814&intType=1&geolocation=AZ%3BBA&AwaitingReconsent=false; _ga_11HBWMC274=GS2.1.s1772690787$o1$g1$t1772690956$j13$l0$h0; amplitude_id_67f7b7e6c8cb1b558b0c5bda2f747b07trustpilot.com=eyJkZXZpY2VJZCI6IjdjMzlmMzczLTQwODUtNDRmNy04NDM0LWIxMWQxMjNjMjM2OCIsInVzZXJJZCI6bnVsbCwib3B0T3V0IjpmYWxzZSwic2Vzc2lvbklkIjoxNzcyNjkwNzc2NTY1LCJsYXN0RXZlbnRUaW1lIjoxNzcyNjkxMDI1MzE2LCJldmVudElkIjoxOCwiaWRlbnRpZnlJZCI6MTEsInNlcXVlbmNlTnVtYmVyIjoyOX0=; aws-waf-token=c3c07c72-a151-4a17-9ee0-397a66f7f974:DQoAhskqdlUMAAAA:wtTSLRU3IH9XB4+PAVfCEnn0oLE4Wa9sfLkXD3d0ju8VdOCwuWROqL9CE/J5EglG63he9RKS7xlG0ZHVlA+BZDsVj3s1dpPq4b8rg7FcOEs0KyXP+TCNf89eWaFbcaVPMKOFF0lqNimpQb0D9+bqdJIzvWkFaaMP8/qjFXyfcFqr2Ehx1DxN1LVlVEeSPU8Wdazt4aAmrRftwGpIDn8cWb6nRIi33uO9Y8IyElLYHQyHWNT4ICwzHaOoyiXyclCXXGxmJiD7P35XdEKHI6c=
+dnt
+1
+newrelic
+eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjQzODU4ODciLCJhcCI6IjUzODY5NDQ1NSIsImlkIjoiNmYxMjBkNjc2NzQwMGU4ZSIsInRyIjoiOGM3ZjkyOGRlZTE5YTcwMDA1ZDRlODVkMGJlYTdlN2IiLCJ0aSI6MTc3MjY5MTEwNTkwMX19
+priority
+u=1, i
+referer
+https://www.trustpilot.com/categories/craftsman
+sec-ch-ua
+"Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+sentry-trace
+dcb998bfa2c04fc385262d884f6515b7-bdb435f3fbd39a6d
+traceparent
+00-8c7f928dee19a70005d4e85d0bea7e7b-6f120d6767400e8e-01
+tracestate
+4385887@nr=0-1-4385887-538694455-6f120d6767400e8e----1772691105901
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+x-nextjs-data
+1
+
+payload:
+
+page=2&categoryId=craftsman
+
+
+
+
+
+
+api params:
+
+api headers:
+
+Request URL
+https://www.trustpilot.com/_next/data/categoriespages-consumersite-2.1186.0/categories/craftsman.json?categoryId=craftsman
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+108.157.229.75:443
+Referrer Policy
+strict-origin-when-cross-origin
+cache-control
+public, max-age=1200
+content-encoding
+gzip
+content-type
+application/json
+date
+Thu, 05 Mar 2026 06:09:15 GMT
+etag
+"m4x3qrfl4215hq"
+referrer-policy
+strict-origin-when-cross-origin
+strict-transport-security
+max-age=63072000; includeSubDomains; preload
+vary
+Accept-Encoding
+via
+1.1 c26999728b9b80253ea8308df470deba.cloudfront.net (CloudFront)
+x-amz-cf-id
+zj0x8ZmkaUUadc1bKYFBYaUkstV6lCBONTqWos9Nz-Olve6b4ZOC1Q==
+x-amz-cf-pop
+ARN56-P2
+x-cache
+Miss from cloudfront
+x-content-type-options
+nosniff
+x-download-options
+noopen
+x-frame-options
+deny
+x-xss-protection
+0
+:authority
+www.trustpilot.com
+:method
+GET
+:path
+/_next/data/categoriespages-consumersite-2.1186.0/categories/craftsman.json?categoryId=craftsman
+:scheme
+https
+accept
+/
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-GB,en-US;q=0.9,en;q=0.8,ru;q=0.7,az;q=0.6
+baggage
+sentry-environment=Production,sentry-release=categoriespages-consumersite%402.1186.0,sentry-public_key=29178272ed294e5db5441dee22e3e486,sentry-trace_id=84b36a50773940c2a47040d4c5a8e736
+cookie
+TP.uuid=1f4d38ba-7663-4ce9-b8f0-015234fa4049; tp-external-referrer=%7B%22referrer%22%3A%22https%3A%2F%2Fwidget.trustpilot.com%2F%22%2C%22entry%22%3A%22https%3A%2F%2Fwww.trustpilot.com%2Freview%2Fwww.godaddy.com%3Futm_medium%3Dtrustbox%26utm_source%3DMini%22%7D; _hjSession_391767=eyJpZCI6IjE3ZmJkZDQ5LTM4M2QtNDUyYi04NTIzLWUwYTkyYWIwZWVlZiIsImMiOjE3NzI2OTA3NzU3ODYsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxfQ==; ajs_anonymous_id=7c39f373-4085-44f7-8434-b11d123c2368; amplitude_idundefinedtrustpilot.com=eyJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOm51bGwsImxhc3RFdmVudFRpbWUiOm51bGwsImV2ZW50SWQiOjAsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjowfQ==; OptanonAlertBoxClosed=2026-03-05T06:06:22.591Z; _hjSessionUser_391767=eyJpZCI6IjU3MWE3NGM2LTU3ZTItNWRlNC1hMzdmLWJjMTA5YTNlNDc2OCIsImNyZWF0ZWQiOjE3NzI2OTA3NzU3ODUsImV4aXN0aW5nIjp0cnVlfQ==; csrf=Ov-9OAyvWns2947gS2GhpoD; _gcl_au=1.1.1019251359.1772690787; _ga=GA1.1.1835428715.1772690787; g_state={"i_l":0,"i_ll":1772690847051,"i_b":"k43X+u8ef98okNTTv7dp/WXkwiMU60qJPI5orTY9iRM","i_e":{"enable_itp_optimization":0}}; OptanonConsent=isGpcEnabled=0&datestamp=Thu+Mar+05+2026+10%3A08%3A29+GMT%2B0400+(Azerbaijan+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=dcc2d0be-8483-41d3-9298-87354ba1b1ec&interactionCount=2&isAnonUser=1&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772690782814&intType=1&geolocation=AZ%3BBA&AwaitingReconsent=false; amplitude_id_67f7b7e6c8cb1b558b0c5bda2f747b07trustpilot.com=eyJkZXZpY2VJZCI6IjdjMzlmMzczLTQwODUtNDRmNy04NDM0LWIxMWQxMjNjMjM2OCIsInVzZXJJZCI6bnVsbCwib3B0T3V0IjpmYWxzZSwic2Vzc2lvbklkIjoxNzcyNjkwNzc2NTY1LCJsYXN0RXZlbnRUaW1lIjoxNzcyNjkwOTEwNDM4LCJldmVudElkIjoxNiwiaWRlbnRpZnlJZCI6MTAsInNlcXVlbmNlTnVtYmVyIjoyNn0=; _ga_11HBWMC274=GS2.1.s1772690787$o1$g1$t1772690910$j59$l0$h0; aws-waf-token=c3c07c72-a151-4a17-9ee0-397a66f7f974:DQoAghoq8HIvAAAA:cqzIQKApmF0cVExy0cZmqjCyf0FADs04ZO2VoI4P8GEQMKtgrgzKSAIdDblkvKF99XZGcGO7komtGuINWUDRk/oYuOwEovWx+9QrIxtlFaBCLiu7qcJMktcf2yU+s5tASs19InODCCjIEDbosHWIXFu6nhqQCiUYEkA49U+hNZOtwBsxrAQauaSuJ1Mb0vb/zNrpZwd4G+3xByg43WAz3dC3f9R045OW0gJ6uVtv7FWZ9IiENdtCjJTsMRl/p9l2T99eC+1fMJmQRcgR55I=
+dnt
+1
+newrelic
+eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjQzODU4ODciLCJhcCI6IjUzODY5NDQ1NSIsImlkIjoiM2Y4YmVkZDQyN2Q5OWFiMSIsInRyIjoiMmNiM2JjYTEyY2QxZWQ0OGYwODg5YTU5YTM2YTU1MDgiLCJ0aSI6MTc3MjY5MDk1NDkzMX19
+priority
+u=1, i
+referer
+https://www.trustpilot.com/categories
+sec-ch-ua
+"Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+sentry-trace
+84b36a50773940c2a47040d4c5a8e736-954e55621f3274be
+traceparent
+00-2cb3bca12cd1ed48f0889a59a36a5508-3f8bedd427d99ab1-01
+tracestate
+4385887@nr=0-1-4385887-538694455-3f8bedd427d99ab1----1772690954931
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+x-nextjs-data
+1
+
+payload:
+
+categoryId=craftsman
